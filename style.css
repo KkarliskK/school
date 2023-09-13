@@ -55,4 +55,5 @@ body{
     width: 250px;
     height: 250px;
     background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+    border-radius: 10px;
 }
