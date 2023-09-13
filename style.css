@@ -35,7 +35,7 @@ body{
     height: 4vh;
     border-radius: 10px;
     border: none;
-    background: black;
+    background: rgba(41, 2, 92, 0.904);
     text-transform: uppercase;
     color: white;
     letter-spacing: 2px;
@@ -52,8 +52,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
     background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
     border-radius: 10px;
 }
